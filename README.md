@@ -1,2 +1,10 @@
 # pylipsum
-A clone of Pypsum. It interfaces with lipsum.com (courtesy of James Wilson) to generate Lorem Ipsum text, useful for template designing when lots of mock-up text is needed.
+pylipsum is a clone of Pypsum. 
+It is a program written in Python that interfaces with lipsum.com (courtesy of James Wilson) to generate Lorem Ipsum text, which is useful for template designing when lots of mock-up text is needed.
+
+### Features:
++ Supports any OS runs Python 3.
++ Lightweight
++ Simple and fast
+
+![Screenshot of pylipsum](https://raw.githubusercontent.com/adamtcdev/pylipsum/main/demo.png)
